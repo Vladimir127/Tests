@@ -1,4 +1,4 @@
-package com.geekbrains.tests
+package com.razrabotkin.tests
 
 internal const val TEST_NUMBER = 42
 internal const val TEST_NUMBER_OF_RESULTS_ZERO = "Number of results: 0"

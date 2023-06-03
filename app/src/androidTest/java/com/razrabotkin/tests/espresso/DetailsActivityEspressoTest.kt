@@ -9,6 +9,9 @@ import androidx.test.espresso.assertion.ViewAssertions.matches
 import androidx.test.espresso.matcher.ViewMatchers.*
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.razrabotkin.tests.R
+import com.razrabotkin.tests.TEST_NUMBER_OF_RESULTS_MINUS_1
+import com.razrabotkin.tests.TEST_NUMBER_OF_RESULTS_PLUS_1
+import com.razrabotkin.tests.TEST_NUMBER_OF_RESULTS_ZERO
 import com.razrabotkin.tests.view.details.DetailsActivity
 import junit.framework.TestCase
 import org.junit.After
