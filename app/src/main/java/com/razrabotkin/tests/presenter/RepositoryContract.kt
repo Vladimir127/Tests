@@ -4,7 +4,7 @@ import com.razrabotkin.tests.model.SearchResponse
 import com.razrabotkin.tests.repository.RepositoryCallback
 import io.reactivex.Observable
 
-internal interface RepositoryContract {
+interface RepositoryContract {
     fun searchGithub(
         query: String,
         callback: RepositoryCallback
