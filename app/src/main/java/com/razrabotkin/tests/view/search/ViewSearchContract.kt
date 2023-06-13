@@ -1,5 +1,6 @@
 package com.razrabotkin.tests.view.search
 
+import com.razrabotkin.tests.model.SearchResult
 import com.razrabotkin.tests.view.ViewContract
 
 internal interface ViewSearchContract : ViewContract {
